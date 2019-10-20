@@ -17,4 +17,4 @@ console.log(addExspenses.toLowerCase());
 console.log(addExspenses.split(','));
 
 let budgetDay = money/30;
-console.log('Дневной бюджет: ' + budgetDay + ',' + ' остаток: ' +  money%30 + ' от деления' );
+console.log('Дневной бюджет: ' + budgetDay + ',' + ' остаток: ' +  money%30 + ' от деления'); 
