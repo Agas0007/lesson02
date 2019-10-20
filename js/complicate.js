@@ -7,4 +7,3 @@ console.log('умножение цифр числа "266219" = ' + numbers);
 
 let extent = numbers ** 3;
 alert('Первые две цифры: ' + String(extent).slice(0,2));
-
